@@ -1,3 +1,3 @@
 ksdfj
 asddfasdf
-Sample Java Applicaiton V1.6
+Sample Java Applicaiton V1.7
