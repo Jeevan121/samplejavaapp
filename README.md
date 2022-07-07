@@ -1,3 +1,1 @@
-ksdfj
-asddfasdf
-Sample Java Applicaiton V1.5
+this sample file for testing
